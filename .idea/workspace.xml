@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07710760-b92a-41ef-9246-72cc115fea0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/练习题/局部内部类/demo1.java" afterDir="false" />
-    </list>
+    <list default="true" id="07710760-b92a-41ef-9246-72cc115fea0d" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +255,7 @@
       <workItem from="1707950440638" duration="11831000" />
       <workItem from="1708738757024" duration="7547000" />
       <workItem from="1709289796130" duration="595000" />
-      <workItem from="1709377067674" duration="2545000" />
+      <workItem from="1709377067674" duration="3126000" />
     </task>
     <servers />
   </component>
