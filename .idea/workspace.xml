@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07710760-b92a-41ef-9246-72cc115fea0d" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/练习题/mevntest/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习题/习题1/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习题/匿名内部类/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习题/匿名内部类/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习题/权限修饰符/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/设计模式/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/练习题/局部内部类/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/练习题/局部内部类/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/练习题/mevntest/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/练习题/mevntest/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +277,7 @@
       <workItem from="1712227062056" duration="2304000" />
       <workItem from="1718440789222" duration="913000" />
       <workItem from="1718680538718" duration="999000" />
-      <workItem from="1718767010627" duration="1027000" />
+      <workItem from="1718767010627" duration="2240000" />
     </task>
     <servers />
   </component>

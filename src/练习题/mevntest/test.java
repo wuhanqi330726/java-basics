@@ -17,6 +17,11 @@ package 练习题.mevntest;
  *  lib 存放maven运行所需的jar文件
  *
  *  配置环境变量（自己下载的部分）
+ *maven_hone 写入maven的路径
+ *path  写入maven_hone
+ *
+ * maven项目结构
+ *  了解maven项目结构
  *
  */
 
