@@ -199,3 +199,30 @@ public class Test1 {
 
 ```
 
+当spring需要获取对象时可以用<property>标签实现对对象的赋值
+
+代码如下
+
+```xml
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+        <!--    通过bean标签将实体类交给spring容器管理-->
+        <bean id="student" class="com.qfedu.ioc.bean.Student">
+                <property name="stuName" value="fofa"></property>
+        </bean>
+</beans>
+
+```
+
+同时这个也是一个控制反转ioc
+
+## 1.5srping di依赖注入与ioc控制反转的区别
+
+ioc：控制反转，通过spring对象工厂完成对对象的创建
+
+di：依赖注入，在spring完成对象创建的同时依赖spring容器完成对象属性的赋值
+
+
+

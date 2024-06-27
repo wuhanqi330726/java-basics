@@ -4,5 +4,6 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd">
         <!--    通过bean标签将实体类交给spring容器管理-->
         <bean id="student" class="com.qfedu.ioc.bean.Student">
+                <property name="stuName" value="fofa"></property>
         </bean>
 </beans>
