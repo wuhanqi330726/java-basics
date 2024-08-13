@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07710760-b92a-41ef-9246-72cc115fea0d" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/练习题/算法/code01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,20 @@
       <recent name="练习题.接口" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.demo (1)">
+  <component name="RunManager" selected="应用程序.code01">
+    <configuration name="code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习题.算法.code01" />
+      <module name="java IDEA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="练习题.算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="练习题.习题1.demo" />
       <module name="java IDEA" />
@@ -104,19 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="练习题.内部类.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="练习题.多态.demo5" />
-      <module name="java IDEA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="练习题.多态.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,19 +206,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat 服务器.未命名" />
-      <item itemvalue="应用程序.demo5" />
       <item itemvalue="应用程序.demo2" />
       <item itemvalue="应用程序.demo1 (1)" />
       <item itemvalue="应用程序.demo" />
       <item itemvalue="应用程序.demo (1)" />
+      <item itemvalue="应用程序.code01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.code01" />
         <item itemvalue="应用程序.demo (1)" />
         <item itemvalue="应用程序.demo" />
         <item itemvalue="应用程序.demo1 (1)" />
         <item itemvalue="应用程序.demo2" />
-        <item itemvalue="应用程序.demo5" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +283,8 @@
       <workItem from="1719044347127" duration="1228000" />
       <workItem from="1719108300690" duration="323000" />
       <workItem from="1719109227180" duration="212000" />
+      <workItem from="1722305766757" duration="22000" />
+      <workItem from="1723516088666" duration="426000" />
     </task>
     <servers />
   </component>
