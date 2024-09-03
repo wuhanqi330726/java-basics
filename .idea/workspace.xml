@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07710760-b92a-41ef-9246-72cc115fea0d" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/练习题/算法/蓝桥杯/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java IDEA/练习题/spring/spring_demo/Instructions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java IDEA/练习题/spring/spring_demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java IDEA/练习题/spring/spring_demo/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java IDEA/练习题/spring/spring_demo/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/练习题/算法/code01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/练习题/算法/code01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,6 +285,9 @@
       <workItem from="1719109227180" duration="212000" />
       <workItem from="1722305766757" duration="22000" />
       <workItem from="1723516088666" duration="2131000" />
+      <workItem from="1724583800908" duration="6000" />
+      <workItem from="1725244511266" duration="1248000" />
+      <workItem from="1725327627358" duration="441000" />
     </task>
     <servers />
   </component>
